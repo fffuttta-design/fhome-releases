@@ -27,7 +27,7 @@
     {"pkg": "com.futa.finance", "name": "FutaFinance", "manifest": "https://raw.githubusercontent.com/fffuttta-design/finance-apps-releases/main/futa-version.json"},
     {"pkg": "com.takuharu.finance", "name": "たくはるファイナンス", "manifest": "https://raw.githubusercontent.com/fffuttta-design/finance-apps-releases/main/takuharu-version.json"},
     {"pkg": "com.haru.finance", "name": "はるファイナンス", "manifest": "https://raw.githubusercontent.com/fffuttta-design/finance-apps-releases/main/haru-version.json"},
-    {"pkg": "dev.flashshare.flash_share", "name": "flash_share", "repo": "fffuttta-design/flash_share-releases", "tagPrefix": "android-v", "multi": true, "asset": "flash_share.apk"},
+    {"pkg": "dev.flashshare.app", "name": "FlashShare", "repo": "fffuttta-design/FlashShare-releases", "tagPrefix": "android-v", "multi": true, "asset": "FlashShare.apk"},
 
     {"pkg": "com.futamura.futabrowser", "name": "ふたブラウザ", "manifest": "https://github.com/fffuttta-design/futabrowser-releases/releases/latest/download/version.json"},
     {"pkg": "jp.runstrategy.bizdashboard", "name": "事業ダッシュボード", "manifest": "https://github.com/fffuttta-design/bizdashboard-android-releases/releases/latest/download/version.json"},
