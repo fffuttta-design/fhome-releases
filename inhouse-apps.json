@@ -4,7 +4,7 @@
   "apps": [
     {"pkg": "com.futamura.fhome", "name": "FHome", "repo": "fffuttta-design/fhome-releases", "asset": "FHome.apk"},
     {"pkg": "com.futamura.futaalarm", "name": "ふたアラーム", "repo": "fffuttta-design/futaalarm-releases", "asset": "futaalarm-{v}.apk"},
-    {"pkg": "com.futamura.futamuscle", "name": "FutaMuscle", "repo": "fffuttta-design/futamuscle-releases", "asset": "FutaMuscle.apk"},
+    {"pkg": "com.futamura.mymuscle", "name": "MyMuscle", "repo": "fffuttta-design/mymuscle-releases", "asset": "MyMuscle.apk"},
     {"pkg": "com.futamura.futamail", "name": "ふたメール", "repo": "fffuttta-design/futamail-android-releases", "asset": "FutaMail.apk"},
     {"pkg": "com.takuharu.pfc", "name": "ふたPFC", "repo": "fffuttta-design/takuharu-pfc-releases", "asset": "takuharu-pfc-{v}.apk"},
     {"pkg": "com.futamura.futabgm", "name": "ふたBGM", "repo": "fffuttta-design/futabgm-android-releases", "asset": "FutaBGM.apk"},
