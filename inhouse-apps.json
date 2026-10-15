@@ -35,7 +35,7 @@
     {"pkg": "com.futaclean.app", "name": "ふたクリーン", "manifest": "https://futaclean.vercel.app/app/version.json"},
     {"pkg": "com.futamura.futaplaud", "name": "ふたPlaud", "manifest": "https://futaplaud.vercel.app/app/version.json", "apk": "https://futaplaud.vercel.app/app/futaplaud.apk"},
     {"pkg": "com.futamura.infomaster", "name": "ふた重要情報マスタ", "manifest": "https://futa-info-master.vercel.app/version.json"},
-    {"pkg": "com.todoapp.app", "name": "GoalManager", "manifest": "https://goal-manager-todo.web.app/version.json", "apk": "https://goal-manager-todo.web.app/app-update.bin"},
+    {"pkg": "com.todoapp.app", "name": "MyGoal", "manifest": "https://goal-manager-todo.web.app/version.json", "apk": "https://goal-manager-todo.web.app/app-update.bin"},
     {"pkg": "com.futapass.app", "name": "ふたパス", "manifest": "https://futapass-ec877.web.app/version.json", "apk": "https://futapass-ec877.web.app/app-update.bin"},
     {"pkg": "com.futamemo.app", "name": "KotoPad", "manifest": "https://futatool.web.app/version.json", "apk": "https://futatool.web.app/app-update.bin"},
     {"pkg": "jp.runstrategy.sheetapp", "name": "SheetApp", "manifest": "https://sheetdic.web.app/app/version.json", "apk": "https://sheetdic.web.app/app/app-update.bin"},
