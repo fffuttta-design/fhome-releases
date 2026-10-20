@@ -5,7 +5,7 @@
     {"pkg": "com.futamura.fhome", "name": "FHome", "repo": "fffuttta-design/fhome-releases", "asset": "FHome.apk"},
     {"pkg": "com.futamura.futaalarm", "name": "ふたアラーム", "repo": "fffuttta-design/futaalarm-releases", "asset": "futaalarm-{v}.apk"},
     {"pkg": "com.futamura.mymuscle", "name": "MyMuscle", "repo": "fffuttta-design/mymuscle-releases", "asset": "MyMuscle.apk"},
-    {"pkg": "com.futamura.futamail", "name": "ふたメール", "repo": "fffuttta-design/futamail-android-releases", "asset": "FutaMail.apk"},
+    {"pkg": "com.futamura.futamail", "name": "MyMail", "repo": "fffuttta-design/mymail-android-releases", "asset": "FutaMail.apk"},
     {"pkg": "com.takuharu.pfc", "name": "ふたPFC", "repo": "fffuttta-design/takuharu-pfc-releases", "asset": "takuharu-pfc-{v}.apk"},
     {"pkg": "com.futamura.futabgm", "name": "ふたBGM", "repo": "fffuttta-design/futabgm-android-releases", "asset": "FutaBGM.apk"},
     {"pkg": "com.studytracker", "name": "Study Tracker", "repo": "fffuttta-design/study-tracker-releases", "asset": "study-tracker.apk"},
@@ -24,7 +24,7 @@
     {"pkg": "com.fffuttta.futacam", "name": "ふたカム", "repo": "fffuttta-design/futacam-releases", "asset": "futacam-{v}.apk"},
     {"pkg": "com.futamura.futatimer", "name": "ふたタイマー", "repo": "fffuttta-design/futatimer-releases", "asset": "futatimer-{v}.apk"},
 
-    {"pkg": "com.futa.finance", "name": "FutaFinance", "manifest": "https://raw.githubusercontent.com/fffuttta-design/finance-apps-releases/main/futa-version.json"},
+    {"pkg": "jp.runstrategy.myfinance", "name": "MyFinance", "manifest": "https://raw.githubusercontent.com/fffuttta-design/finance-apps-releases/main/myfinance-version.json"},
     {"pkg": "com.takuharu.finance", "name": "たくはるファイナンス", "manifest": "https://raw.githubusercontent.com/fffuttta-design/finance-apps-releases/main/takuharu-version.json"},
     {"pkg": "com.haru.finance", "name": "はるファイナンス", "manifest": "https://raw.githubusercontent.com/fffuttta-design/finance-apps-releases/main/haru-version.json"},
     {"pkg": "dev.flashshare.app", "name": "FlashShare", "repo": "fffuttta-design/FlashShare-releases", "tagPrefix": "android-v", "multi": true, "asset": "FlashShare.apk"},
