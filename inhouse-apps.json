@@ -31,6 +31,7 @@
     {"pkg": "com.futamura.futamimi", "name": "ふたミミ", "repo": "fffuttta-design/futamimi-releases", "asset": "FutaMimi.apk", "category": "暮らし・学び"},
     {"pkg": "com.futamura.futareader", "name": "ふたリーダー", "repo": "fffuttta-design/futa-reader-releases", "asset": "FutaReader.apk", "category": "暮らし・学び"},
     {"pkg": "com.futa.shikotanren", "name": "思考力鍛錬", "repo": "fffuttta-design/shiko-tanren-releases", "asset": "shiko-tanren.apk", "category": "暮らし・学び"},
+    {"pkg": "com.futamura.mydiary", "name": "MyDiary", "repo": "fffuttta-design/mydiary-releases", "tagPrefix": "android-v", "multi": true, "asset": "MyDiary.apk", "category": "暮らし・学び"},
     {"pkg": "com.futamura.myhistory", "name": "MyHistory", "manifest": "https://myhistory-futa.vercel.app/version.json", "category": "暮らし・学び"},
     {"pkg": "com.fffuttta.takuriamo", "name": "たくはるRiamo", "manifest": "https://takuharu-riamo-ota.vercel.app/app/manifest.json", "category": "暮らし・学び"},
     {"pkg": "com.futamura.futabgm", "name": "ふたBGM", "repo": "fffuttta-design/futabgm-android-releases", "asset": "FutaBGM.apk", "category": "写真・動画・音楽"},
